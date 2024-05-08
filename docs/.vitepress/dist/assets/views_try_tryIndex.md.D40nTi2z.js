@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.BN8UrsJY.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"views/try/tryIndex.md","filePath":"views/try/tryIndex.md"}'),a={name:"views/try/tryIndex.md"};function n(s,o,c,d,i,p){return r(),t("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};
