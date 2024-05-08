@@ -12,7 +12,6 @@ cd ../docs/.vitepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-
 #git@github.com:1wangtongxue/VBD.git修改成自己的仓库名称
 # 意思为将master构建后的代码合并到gh-pages分支上，然后在gh-pages分支上部署~
 git push -f git@github.com:1wangtongxue/VitepressBokeDemo.git master:master
